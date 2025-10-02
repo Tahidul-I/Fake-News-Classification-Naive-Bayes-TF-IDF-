@@ -1,3 +1,10 @@
+##  Overview
+
+This project is a **machine learning model** that classifies news articles as **Fake** or **Real** which can also be considered as binary classification. The classification is done using a ** Naive Bayes** model, which provides fast and accurate results.  
+The goal is to demonstrate how text classification can help detect misinformation.
+
+## CODE
+
 ```python
 import pandas as pd
 import seaborn as sns
