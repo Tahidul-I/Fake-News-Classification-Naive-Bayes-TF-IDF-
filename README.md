@@ -198,8 +198,8 @@ plt.show()
     
 
 
-The confusion matrix shows that the classifier precited 195 of the fake news as real and 18 of the real news as fake. Although the classifier showed good performance by obtaining the  is 83%, the classifier tends mis classify fake news more. This may be caused by several resons like the dataset may contain 
-fake news sanmple less than the real news, or may the random_state or value of max_df casusing this behavior. So, efficient adjustment of those hyper parameters may lead to a more better performance.
+The confusion matrix shows that the classifier predicted 195 of the fake news as real and 18 of the real news as fake. Although the classifier showed good performance by obtaining 83% accuracy, the classifier tends to mis classify fake news more. This may be caused by several resons like the dataset may contain 
+fake news sample less than the real news, or may be the random_state or value of max_df casusing this behavior. So, efficient adjustment of those hyper parameters may lead to a more better performance.
 
 
 ```python
